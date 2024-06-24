@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/LaOuede/Landing-page/blob/main/images/signup-form.png" width="90"/>
+  <img src="https://github.com/LaOuede/Sign-up-Form/blob/main/images/signup-form.png" width="90"/>
 </p>
 
 <h1 align=center>Sign-up Form</h1>
@@ -36,6 +36,7 @@ I've acquired a lot of basic knowledge with :
 ---
 
 <h3 align="left">🖥 Display</h3>
+<img width="977" alt="Capture d’écran, le 2024-06-24 à 09 44 29" src="https://github.com/LaOuede/Sign-up-Form/assets/114024436/da731415-6fdf-4d70-81f4-3a9165fa6c97">
 
 
 ---

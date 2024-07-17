@@ -38,6 +38,7 @@ I've acquired a lot of basic knowledge with :
 <h3 align="left">🖥 Display</h3>
 <img width="888" alt="Capture d’écran, le 2024-06-24 à 14 25 13" src="https://github.com/LaOuede/Sign-up-Form/assets/114024436/6d24b6e2-b11c-4534-8cf3-5b816d53462c">
 
+
 ---
 
 <div align="center">

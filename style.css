@@ -147,6 +147,11 @@ input:invalid {
 	border-color: rgb(255, 0, 0);
 }
 
+input:valid {
+	border-color: rgb(80, 137, 34);
+}
+
+
 input[type="tel"]::placeholder, input[type="email"]::placeholder  {
 	color: #999;
     font-style: italic;
